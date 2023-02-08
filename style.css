@@ -1,0 +1,187 @@
+.element{
+ float:right;
+ font-size: 23px;
+ font-style: bold;
+}
+h2{
+ position: absolute;
+    top: 2%;
+    right: 80%;
+    font-size: 180%;
+}
+.home{
+position: absolute;
+    top: 3%;
+    left: 63%;
+}
+.services{
+ position: absolute;
+    top: 3%;
+    left: 69%;
+}
+.skills{
+ position: absolute;
+    top: 3%;
+    left: 76%;
+}
+.works{
+ position: absolute;
+    top: 3%;
+    left: 82%;
+}
+p{
+ float: left;
+ position:absolute;
+ top: 40%;
+ left: 15%;
+ transform: translate(-50%,-50%);
+ padding-left: 10%;
+padding-top: 10%;
+ font-size: 300%;
+ color: rgb(45, 60, 196);
+}
+p1{
+ float: left;
+ position:absolute;
+ top: 65%;
+ left: 10%;
+ color: black;
+ font-size: 200%;
+}
+ .About{
+     height: 700px;
+     width: 100%;
+     border: 3px solid gray;
+    }
+    .About img{
+     float: left;
+     padding-left: 15%;
+     padding-right: 15%;
+     padding-top: 15%;
+    }
+    .About p2{
+     font-size: 150%;
+     text-align: center;
+     color: #FAF9F6;
+    }
+    .About h4{
+     text-align: right;
+     padding-right: 20%;
+     font-size: 300%;
+     color: #FFC72C;
+    }
+    .courses{
+        height: 700px;
+        width: 100%;
+        border: 3px solid gray;
+        }
+     .courses img{
+        float: right;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-top: 10%;
+        height: 50%;
+        width: 30%;
+        }
+     .courses p2{
+        font-size: 150%;
+        text-align: right;
+        border: 2px;
+        display: block;
+        padding-left: 10%;
+        color: #FAF9F6;
+        
+        }
+     .courses h4{
+        text-align: right;
+        padding-right: 20%;
+        font-size: 400%;
+        padding-bottom: 2%;
+        padding-top: 1.5%;
+        color: #FFC72C;
+        }
+    .s{
+        height: 700px;
+        width: 100%;
+        border: 3px solid rgb(5, 4, 4);
+        }
+    .s img{
+        float: left;
+        padding-left: 15%;
+        padding-top: 10%;
+        height: 50%;
+        width: 30%;
+        }
+      
+    .s p2{
+            font-size: 150%;
+            text-align: left;
+            border: 5px;
+            display: inline-block;
+            padding-right: 20%;
+            color: #ececeb;
+            }
+    .s h4{
+            text-align: center;
+            padding-right: 20%;
+            font-size: 400%;
+            padding-bottom: 1.5%;
+            padding-top: 1.5%;
+            color: #FFC72C;
+            }
+    .contact_details{
+                text-align: right;
+                font-size: 400%;
+                display: block;
+                color: #FFC72C;
+            }
+    
+    .contact_info{
+            display: block;
+           }
+    .contact_info p{
+            font-size: 1rem;
+           }
+    .contact_info{
+            margin-left: 200px;
+            margin-top: 50px;
+           }
+    .form{
+            margin-left: 250px;
+           }
+    .form input{
+            width:500px;
+            height: 40px;
+            font-size: 1.2rem;
+            background-color: rgb(190,189,189);
+            color: rgb(17, 13, 13);
+            margin-bottom: 20px;
+           }
+    .form textarea{
+            font-size: 1.2rem;
+            background-color: rgb(190,189,189);
+            color: rgb(19, 16, 16);
+            width: 400px;
+            height: 50px;
+        }
+    .form button{
+            width: 150px;
+            height: 50px;
+            background-color: rgb(71,70,70);
+            font-size: 1.2rem;
+            padding: 10px;
+            border-radius: 105px;
+            color: white;
+        }
+    .icons p4{
+            text-align: center;
+            float: center;
+            padding-top: 0%;
+            padding-left: 50%;
+            color: #FAF9F6;
+        }
+    .icons img{
+            width: 20%;
+            height: 20eh;
+            padding-left: 45%;
+        }
